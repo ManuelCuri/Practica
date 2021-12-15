@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="turquesa">#81d6c4</color>
+    <color name="turquesa_400">#4fa494</color>
 </resources>

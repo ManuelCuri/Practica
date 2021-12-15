@@ -23,7 +23,7 @@ public class Principal extends Fragment {
         entrar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ((NavigationHost) getActivity()).navigateTo(new layout_home(),false);
+                ((NavigationHost) getActivity()).navigateTo(new Home(),false);
             }
         });
 
