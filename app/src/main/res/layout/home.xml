@@ -10,15 +10,22 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:layout_marginRight="4dp"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="2in"
+            android:background="@drawable/manuel_id"
+            />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingTop="50dp"
             android:textStyle="bold"
             android:fontFamily="@font/simply_rounded"
             android:layout_marginLeft="10dp"
-            android:text="Hello Jessica"
+            android:text="Hello Manuel"
             android:textSize="44sp"
             android:textColor="@color/white"
             />
